@@ -1,4 +1,4 @@
-![image](https://github.com/Mohammed-Saajid/slot/assets/141727149/cf392c70-4030-4b31-9239-dd51d315b437)# Ex03 Time Table
+# Ex03 Time Table
 ## Date:04/04/24
 
 ## AIM
