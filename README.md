@@ -129,7 +129,8 @@ Execute the program using runserver command.
 
 ## OUTPUT:
 
-![image](https://github.com/Mohammed-Saajid/slot/assets/141727149/d4a6a203-a1bc-478d-9d69-d1ac96b89ffc)
+![WhatsApp Image 2024-04-02 at 3 46 43 PM](https://github.com/Mohammed-Saajid/slot/assets/141727149/5196cbe1-2422-4b11-9a28-19a5960956c7)
+
 
 
 
